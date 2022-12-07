@@ -1,8 +1,5 @@
 # todolist
 
-## Preview
-![Image](screenshot1.png)
-
 ## Project setup
 ```
 npm install
